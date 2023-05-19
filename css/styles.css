@@ -132,6 +132,7 @@ section {
   background-repeat: no-repeat;
   padding: 188px 0 188px;
   max-width: 1440px;
+  margin: 0 auto;
 }
 .hero-image-wrapper {
   display: flex;
